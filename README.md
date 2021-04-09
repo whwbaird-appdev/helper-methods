@@ -6,7 +6,13 @@
 
 Read Sections 1, 2, 4, 5, 6, and 7 of the [Rails Guide on Testing](https://guides.rubyonrails.org/testing.html). These are the kinds of tests that we write most frequently.
 
-Then, take a stab at writing some System tests to lock down the current functionality of the application. After you've spent 20-30 minutes on it, you're allowed to look at the example specs in `test/system/example_specs.rb`.
+In this project, we have one fully functional web resource, `movies`. Create a test file, `test/system/movie_test.rb`, and take a stab at writing some System tests in it to lock down the current functionality of the application.
+
+After you’ve spent 20-30 minutes on it, you’re allowed to look at the example specs in `test/system/example_specs.rb`. You can copy-paste some or all of them into your own test file and run then periodically as you’re doing the rest of the project to ensure you didn’t break anything as we refactor.
+
+## Walkthrough Video
+
+There's a walkthrough video to go along with this project on Canvas.
 
 ### Clean-ups that we already know how to do
 
