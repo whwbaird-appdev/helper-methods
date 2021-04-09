@@ -6,7 +6,7 @@
 
 Read Sections 1, 2, 4, 5, 6, and 7 of the [Rails Guide on Testing](https://guides.rubyonrails.org/testing.html). These are the kinds of tests that we write most frequently.
 
-Then, take a stab at writing some System tests to lock down the current functionality of the application. After you've spent 20-30 minutes on it, you're allowed to look at the example specs in `test/system/example_movies_test.rb`.
+Then, take a stab at writing some System tests to lock down the current functionality of the application. After you've spent 20-30 minutes on it, you're allowed to look at the example specs in `test/system/example_specs.rb`.
 
 ### Clean-ups that we already know how to do
 
