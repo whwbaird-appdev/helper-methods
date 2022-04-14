@@ -37,6 +37,10 @@ class MoviesController < ApplicationController
   end
 
   def update
+    movie_attributes = params.require(:movie).permit(:title, :description)
+
+    @movie = 
+    
     the_id = params.fetch(:id)
     the_movie = Movie.where(id: the_id).first
 
